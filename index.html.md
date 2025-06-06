@@ -44,12 +44,6 @@
         padding: 0; /* Removes default padding */
         margin: 0; /* Removes default margin */
       }
-
-      .mas {
-        list-style-type: disc;
-         padding-left: 1.5rem; 
-         text-align: left;
-      }
     </style>
   </head>
 
@@ -274,7 +268,7 @@
               data-aos="fade-up"
               data-aos-delay="100"
             >
-              <div class="service-item item-red position-relative">
+              <div class="service-item item-blue position-relative">
                 <div class="icon">
                   <svg
                     width="100"
@@ -292,17 +286,16 @@
                   <i class="bi bi-gear"></i>
                 </div>
                 <!-- <a href="service-details.html" class="stretched-link"> -->
-                  <h3>Corporate Finance and Banking Advisory</h3>
+                  <h3>Business Transformation</h3>
                 </a>
-                <!-- <p>We help organizations adapt, innovate, and thrive:</p> -->
-                <ul class="mas">
-                  <li>Advise on corporate financing, capital structuring, and funding strategies.</li>
-                  <li>Assist with preparation of bankable proposals and financial models.</li>
-                  <li>Support in securing tailored credit facilities and negotiating terms.</li>
-                  <li>Leverage relationships with banks and development institutions.</li>
-                  <li>Guide clients through project finance, SME lending, and refinancing.</li>
+                <p>We help you unlock your organization’s potential:</p>
+                <ul>
+                  <li>Change Management</li>
+                  <li>Operational Efficiency & Process Optimization</li>
+                  <li>Restructuring & Turnaround</li>
+                  <li>Digital Strategy & Transformation</li>
+                  <li>Performance Improvement</li>
                 </ul>
-    </ul>
 
                 <!-- <a href="service-details.html" class="stretched-link"></a> -->
               </div>
@@ -314,7 +307,7 @@
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              <div class="service-item item-green position-relative">
+              <div class="service-item item-orange position-relative">
                 <div class="icon">
                   <svg
                     width="100"
@@ -332,17 +325,14 @@
                   <i class="bi bi-shield-check"></i>
                 </div>
                 <!-- <a href="service-details.html" class="stretched-link"> -->
-                  <h3>Strategic Planning and Financial Advisory</h3>
+                  <h3>Corporate Governance & Board Advisory</h3>
                 </a>
-                <!-- <p>We support boards and leadership teams in building transparent, accountable, and effective governance:</p> -->
-                <ul class="mas">
-                  <li>Develop comprehensive strategic plans with measurable objectives.</li>
-                  <li>Align business operations with long-term goals and market trends.</li>
-                  <li>Provide financial analysis, forecasting, and capital planning support.</li>
-                  <li>Advise on cost optimization and profitability improvement.</li>
-                  <li>Enable data-driven decision-making for sustainable growth.</li>
-                  
-          
+                <p>Build trust, compliance, and leadership:</p>
+                <ul>
+                  <li>Board Effectiveness Reviews</li>
+                  <li>Director Training & Governance Development</li>
+                  <li>Risk & Compliance Oversight</li>
+                  <li>Customized Governance Frameworks</li>
                 </ul>
                 <!-- <a href="service-details.html" class="stretched-link"></a> -->
               </div>
@@ -355,7 +345,7 @@
               data-aos="fade-up"
               data-aos-delay="300"
             >
-              <div class="service-item item-blue position-relative">
+              <div class="service-item item-red position-relative">
                 <div class="icon">
                   <svg
                     width="100"
@@ -373,17 +363,14 @@
                   <i class="bi bi-people"></i>
                 </div>
                 <!-- <a href="service-details.html" class="stretched-link"> -->
-                  <h3>Business Transformation Consulting</h3>
+                  <h3>Executive Leadership & Strategic Planning</h3>
                 </a>
-                <!-- <p>We guide leadership transitions and help shape long-term growth:</p> -->
+                <p>Shape your leadership and future:</p>
                 <ul>
-                  <li>Diagnose operational inefficiencies and recommend change initiatives.</li>
-                  <li>Support restructuring, process redesign, and team realignment.</li>
-                  <li>Guide leadership through execution of transformation programs.</li>
-                  <li>Improve organizational agility, productivity, and competitiveness.</li>
-                  <li>Embed performance management and accountability systems.</li>
-                </ul>
-
+                  <li>Succession Planning & Executive Coaching</li>
+                  <li>Organizational Design</li>
+                  <li>Visionary Strategic Planning</li>
+                  <li>Operational Realignment</li>
                 </ul>
                 <!-- <a href="service-details.html" class="stretched-link"></a> -->
               </div>
@@ -414,18 +401,13 @@
                   <i class="bi bi-megaphone"></i>
                 </div>
                 <!-- <a href="service-details.html" class="stretched-link"> -->
-                  <h3>Succession Planning</h3>
+                  <h3>Media & Communications Strategy</h3>
                 </a>
-                <!-- <p>Our financial expertise helps secure stability and growth:</p> -->
-                <ul class="mas">
-                  <li>Design succession frameworks for leadership continuity.</li>
-                  <li>Conduct talent assessments and leadership pipeline development.</li>
-                  <li>Advise on board and executive succession strategies.</li>
-                  <li>Facilitate transitions in owner-managed and family businesses.</li>
-                  <li>Preserve institutional knowledge and stakeholder confidence.</li>
-                </ul>
-
-                 
+                <p>Communicate with clarity and strength:</p>
+                <ul>
+                  <li>Crisis & Reputation Management</li>
+                  <li>Media Positioning & Digital Strategy</li>
+                  <li>Executive Communication Coaching</li>
                 </ul>
                 <!-- <a href="service-details.html" class="stretched-link"></a> -->
               </div>
@@ -438,7 +420,7 @@
               data-aos="fade-up"
               data-aos-delay="400"
             >
-              <div class="service-item item-yellow position-relative">
+              <div class="service-item item-indigo position-relative">
                 <div class="icon">
                   <svg
                     width="100"
@@ -456,17 +438,14 @@
                   <i class="bi bi-currency-dollar"></i>
                 </div>
                 <!-- <a href="service-details.html" class="stretched-link"> -->
-                  <h3>Risk Management</h3>
+                  <h3>Financial Advisory & Risk Management</h3>
                 </a>
-                <!-- <p>Strengthen your financial core:</p> -->
-                <ul class="mas"> 
-                  <li>Develop and implement enterprise risk management frameworks.</li>
-                  <li>Support boards and audit committees with risk oversight.</li>
-                  <li>Identify and assess strategic, financial, and operational risks.</li>
-                  <li>Provide tools for scenario planning and fraud risk mitigation.</li>
-                  <li>Foster a culture of proactive risk governance.</li>
-                </ul>
-
+                <p>Strengthen your financial core:</p>
+                <ul>
+                  <li>Corporate Finance & Capital Structuring</li>
+                  <li>Commercial Banking Advice & Proposals</li>
+                  <li>Investment Strategy & Portfolio Management</li>
+                  <li>Risk Mitigation & Financial Forecasting</li>
                 </ul>
                 <!-- <a href="service-details.html" class="stretched-link"></a> -->
               </div>
@@ -479,7 +458,7 @@
               data-aos="fade-up"
               data-aos-delay="500"
             >
-              <div class="service-item item-purple position-relative">
+              <div class="service-item item-pink position-relative">
                 <div class="icon">
                   <svg
                     width="100"
@@ -497,7 +476,7 @@
                   <i class="bi bi-briefcase"></i>
                 </div>
                 <!-- <a href="service-details.html" class="stretched-link"> -->
-                  <h3></h3>
+                  <h3>Project Management & Business Expansion</h3>
                 </a>
                 <p>Execute with precision and scale effectively:</p>
                 <ul>
@@ -533,6 +512,8 @@
               href="index.html"
               class="logo d-flex align-items-center justify-content-center"
             >
+            
+          <img src="assets/img/favicon.png" alt="" />
               <span class="sitename">Broadland Corporate Consulting</span>
             </a>
             <p><strong>Anthony Shaw</strong></p>
